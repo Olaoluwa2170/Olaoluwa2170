@@ -15,7 +15,9 @@
   <br>
    I love Writing code (Do I?) and I also love fighting crime.
   <br>
-  📚 I’m currently focusing on software development and my career as Batman
+  📚 I’m currently focusing on software development and my career as a super hero
+
+  Small secret? I'm Batman 🦇
   <br>
   
 <hr>
@@ -29,9 +31,11 @@
   <img title="Javascript" height="25" src="images/javascript.svg">
   <img title="Git" height="25" src="images/git-original.svg">
   <img title="GitHub" height="25" src="images/github.svg">
+  <h1>♠</h1>
 </div>
 
-<h1>
+
+
 
 
 
