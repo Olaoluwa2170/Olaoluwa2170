@@ -8,7 +8,7 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Babalola Elisha, I own a computer, and I'm own a batsuit 🦇
+  Hi, I'm Babalola Elisha, I own a computer, and I also own a batsuit 🦇
   <br>
   <br>
   👨‍🎓 I'm currently studying for a Bachelor's degree in Federal University of Technology Minna at the deparment of Computer Science
