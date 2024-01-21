@@ -1,5 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Olaoluwa2170.visitor-badge" alt="Olaoluwa">    
-<img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=Olaoluwa2170.visitor-badge](https://wakatime.com/badge/user/55d96111-0922-4b48-876c-f6a9818d927e.svg)" alt="Olaoluwa">    
+
+<div align="right">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Olaoluwa2170.visitor-badge" alt="Olaoluwa">    
+<img src="https://wakatime.com/badge/user/55d96111-0922-4b48-876c-f6a9818d927e.svg" alt="wakatime">    
+</div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
