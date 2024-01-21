@@ -1,4 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Olaoluwa2170.visitor-badge" alt="Olaoluwa">    
+<img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=Olaoluwa2170.visitor-badge](https://wakatime.com/badge/user/55d96111-0922-4b48-876c-f6a9818d927e.svg)" alt="Olaoluwa">    
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -29,6 +30,7 @@
   <img title="HTML5" height="25" src="images/html5.svg">
   <img title="Visual Studio Code" height="25" src="images/python.svg">
   <img title="Javascript" height="25" src="images/javascript.svg">
+  <img title="Javascript" height="25" src="images/typescript.png">
   <img title="Git" height="25" src="images/git-original.svg">
   <img title="GitHub" height="25" src="images/github.svg">
   <h1>♠</h1>
