@@ -34,6 +34,7 @@
   <img title="Visual Studio Code" height="25" src="images/python.svg">
   <img title="Javascript" height="25" src="images/javascript.svg">
   <img title="Javascript" height="25" src="images/typescript.png">
+  <img title="Nestjs" height="25" src="images/nestjs.jpg">
   <img title="Git" height="25" src="images/git-original.svg">
   <img title="GitHub" height="25" src="images/github.svg">
   <h1>♠</h1>
