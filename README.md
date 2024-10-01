@@ -40,7 +40,8 @@
   <h1>♠</h1>
 </div>
 
-
+<img alt="stats" src="https://github-profile-trophy.vercel.app/?username=Olaoluwa2170&title=-Issues,-Reviews&theme=radical" align="center" />
+<img alt="streaks" src="https://streak-stats.demolab.com/?user=Olaoluwa2170&theme=highcontrast" />
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Olaoluwa2170&show_icons=true&theme=radical&hide_border=true&bg_color=135,2C3E50,4B79A1,2F2F4F,1B1B2F&title_color=FFD700&ring_color=FF4500&rank_icon=github" />
 
 
