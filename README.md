@@ -15,12 +15,20 @@
    Hi, I'm Babalola Elisha, I own a computer, and I also own a supersuit
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in <br/> Federal University of Technology Minna at the deparment of Computer Science
+  👨‍🎓 I'm currently studying for a Bachelor's degree in Federal University of Technology Minna at the deparment of Computer Science
+
+  
   <br>
-   I love looking at screens.
+  <p>
+  🙂‍↕️ I love looking at screens.
+  </p>
   <br>
+
+  
   📚 I’m currently focusing on software development and my career as a super hero
   <br>
+
+  
 <hr>
 <h2 align="left">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="left">
