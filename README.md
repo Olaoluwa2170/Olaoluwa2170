@@ -12,7 +12,7 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="left">
-   Hi, I'm Babalola Elisha, I own a computer, and also own a supersuit
+   Hi, I'm Babalola Elisha, I own a computer, and also a batsuit
   <br>
   <br>
   👨‍🎓 I'm currently studying for a Bachelor's degree in Federal University of Technology Minna at the deparment of Computer Science
