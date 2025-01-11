@@ -12,7 +12,8 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="left">
-   Hi, I'm Babalola Elisha, I own a computer, and also a batsuit
+<!--    Hi, I'm Babalola Elisha, I own a computer, and also a batsuit -->
+  Highly skilled Front-end Developer with a strong foundation in modern web development technologies and a proven track record of delivering secure, scalable, and user-friendly applications. Fluent in English with excellent communication and teamwork skills.
   <br>
   <br>
   👨‍🎓 I'm currently studying for a Bachelor's degree in Federal University of Technology Minna at the deparment of Computer Science
