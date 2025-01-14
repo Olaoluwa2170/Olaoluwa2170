@@ -10,41 +10,53 @@
   </a>
 </h1>
    
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
-<p align="left">
-<!--    Hi, I'm Babalola Elisha, I own a computer, and also a batsuit -->
-  Highly skilled Front-end Developer with a strong foundation in modern web development technologies and a proven track record of delivering secure, scalable, and user-friendly applications. Fluent in English with excellent communication and teamwork skills.
-  <br>
-  <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Federal University of Technology Minna at the deparment of Computer Science
+<h2>🌟 About Me</h2>
 
-  
-  <br>
-  <p>
-  🙂‍↕️ I love looking at screens.
-  </p>
-  <br>
+<p>🎓 <strong>Computer Science Student</strong></p>
 
-  
-  📚 I’m currently focusing on software development and my career as a super hero
-  <br>
+<p>💻 <strong>Full-Stack Developer</strong> with expertise in:</p>
+<ul>
+  <li><strong>Python</strong></li>
+  <li><strong>JavaScript</strong> (React, Next.js, Nest.js, Node/Express.js)</li>
+  <li><strong>TypeScript</strong></li>
+  <li><strong>C</strong></li>
+</ul>
 
-  
+<p>🔧 <strong>Familiar with:</strong></p>
+<ul>
+  <li><strong>SQL Databases:</strong> PostgreSQL, SQLite</li>
+  <li><strong>NoSQL Databases:</strong> MongoDB</li>
+  <li><strong>Cloud Technologies:</strong> AWS (Amazon Web Services)</li>
+  <li><strong>Containerization:</strong> Docker</li>
+</ul>
+
+<p>📂 I worked as:</p>
+<ul>
+  <li><strong>Frontend Developer</strong> at Paritie Dynamic Enterprise Limited, contributing to the <i>Cambio Project</i>.</li>
+  <li><strong>Junior Frontend Developer</strong> at MoneyPrep, migrating the company’s application from WordPress to Next.js.</li>
+  <li><strong>Chief Technical Officer</strong> at Campus Tix, overseeing technical operations.</li>
+</ul>
+
+<p>🤝 I'm passionate about collaborating on projects that bring <strong>value and impact</strong>.</p>
+
+<p>🤖 My journey in technology started with a love for programming and AI in 2022, with strong foundations built through Python and SoloLearn.</p>
+
+<p>📫 Reach out via: 
+  <a href="mailto:elitebabson@gmail.com">Email</a> | 
+  <a href=" https://www.linkedin.com/in/elisha-babalola/" target="_blank">LinkedIn</a>
+</p>
+
 <hr>
-<h2 align="left">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
-<p align="left">
 
-<div align="left">
-  <img title="nest" height="25" src="images/react.png">
-  <img title="HTML5" height="25" src="images/html5.svg">
-  <img title="Visual Studio Code" height="25" src="images/python.svg">
-  <img title="Javascript" height="25" src="images/javascript.svg">
-  <img title="Javascript" height="25" src="images/typescript.png">
-  <img title="Nestjs" height="25" src="images/nestjs.jpg">
-  <img title="Git" height="25" src="images/git-original.svg">
-  <img title="GitHub" height="25" src="images/github.svg">
-  <h1>♠</h1>
-</div>
+<h2 align="center">🚀 What I'm Interested In</h2>
+
+<ul>
+  <li>Building <strong>full-stack web applications</strong> using modern frameworks and tools.</li>
+  <li>Collaborating on <strong>open-source</strong> and <strong>innovative projects</strong>.</li>
+  <li>Exploring and contributing to the field of <strong>AI</strong>.</li>
+  <li>Creating intuitive and beautiful web interfaces that bring ideas to life.</li>
+</ul>
+
 
 <a href="https://app.daily.dev/kingelite"><img src="https://api.daily.dev/devcards/v2/BLkXsHl2tNg02gfhqTV99.png?r=mnq&type=wide" width="652" alt="Elisha Babalola's Dev Card"/></a>
 
