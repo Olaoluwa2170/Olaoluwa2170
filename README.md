@@ -48,7 +48,7 @@
 
 <hr>
 
-<h2 align="center">🚀 What I'm Interested In</h2>
+<h2>🚀 What I'm Interested In</h2>
 
 <ul>
   <li>Building <strong>full-stack web applications</strong> using modern frameworks and tools.</li>
