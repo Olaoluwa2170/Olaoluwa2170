@@ -43,7 +43,7 @@
 
 <p>📫 Reach out via: 
   <a href="mailto:elitebabson@gmail.com">Email</a> | 
-  <a href=" https://linkedin.com/in/elisha-babalola/" target="_blank">LinkedIn</a>
+  <a href=" https://linkedin.com/in/elisha-babalola" target="_blank">LinkedIn</a>
 </p>
 
 <hr>
