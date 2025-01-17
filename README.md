@@ -39,11 +39,11 @@
 
 <p>🤝 I'm passionate about collaborating on projects that bring <strong>value and impact</strong>.</p>
 
-<p>🤖 My journey in technology started with a love for programming and AI in 2022, with strong foundations built through Python and SoloLearn.</p>
+<p>🤖 My journey in technology started with a love for programming and AI in 2020, with strong foundations built through Python and SoloLearn.</p>
 
 <p>📫 Reach out via: 
   <a href="mailto:elitebabson@gmail.com">Email</a> | 
-  <a href=" https://www.linkedin.com/in/elisha-babalola/" target="_blank">LinkedIn</a>
+  <a href=" https://linkedin.com/in/elisha-babalola/" target="_blank">LinkedIn</a>
 </p>
 
 <hr>
