@@ -12,7 +12,7 @@
    
 <h2>🌟 About Me</h2>
 
-<p>🎓 <strong>Computer Science Student, Current CGPA (4.82/5)</strong></p>
+
 
 <p>💻 <strong>Full-Stack Developer</strong> with expertise in:</p>
 <ul>
