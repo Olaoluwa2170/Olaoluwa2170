@@ -17,7 +17,9 @@
 <p>💻 <strong>Full-Stack Developer</strong> with expertise in:</p>
 <ul>
   <li><strong>Python</strong></li>
-  <li><strong>JavaScript</strong> (React, Next.js, Nest.js, Node/Express.js)</li>
+  <li><strong>JavaScript web</strong> (React, Next.js, Nest.js, Node/Express.js)</li>
+  <li><strong>JavaScript mobile</strong> (React Native, Nest.js, Node/Express.js)</li>
+  <li><strong>Dart mobile</strong> (Flutter)</li>
   <li><strong>TypeScript</strong></li>
   <li><strong>C</strong></li>
 </ul>
